@@ -1,0 +1,1640 @@
+jd starting jim1.py
+Start : Sat Dec 12 08:09:41 2020
+https://practiscore.com/world-speed-shooting-championship-2021-presented-by-psa/squadding
+111
+(7, ('title', 'Zack Jones, JR (PCC Optic)'))
+None
+1
+(7, ('title', 'Troy McManus (Carry Optics)'))
+None
+2
+(7, ('title', 'Troy McManus (PCC Optic)'))
+None
+3
+(7, ('title', 'Mike Foley (PCC Optic)'))
+None
+4
+(7, ('title', 'Gary Nash (Rimfire Pistol Open)'))
+None
+5
+(7, ('title', 'Jake Martens (PCC Optic)'))
+None
+6
+(7, ('title', 'Jake Martens 5 (Rimfire Rifle Open)'))
+None
+7
+(7, ('title', 'Michael Brooks (Rimfire Rifle Open)'))
+None
+8
+(7, ('title', 'Michael Brooks (PCC Optic)'))
+None
+9
+(7, ('title', 'Cory Klemashevich (PCC Optic)'))
+None
+10
+(7, ('title', 'Cory Klemashevich (Rimfire Rifle Open)'))
+None
+11
+(7, ('title', 'Zack Jones (PCC Optic)'))
+None
+12
+(7, ('title', 'Troy McManus (Rimfire Pistol Open)'))
+None
+13
+(7, ('title', 'Troy McManus (Rimfire Rifle Open)'))
+None
+14
+(7, ('title', 'Mike Foley (Single Stack)'))
+None
+15
+(7, ('title', 'Chris Stewart (Open)'))
+None
+16
+(7, ('title', 'Chris Stewart (Carry Optics)'))
+None
+17
+(7, ('title', 'Jake Martens (PCC Irons)'))
+None
+18
+(7, ('title', 'Jake Martens (Rimfire Rifle Irons)'))
+None
+19
+(7, ('title', 'Cory Klemashevich (Rimfire Pistol Open)'))
+None
+20
+(7, ('title', 'Cory Klemashevich (Carry Optics)'))
+None
+21
+(7, ('title', 'Zack Jones (Open)'))
+None
+22
+(7, ('title', 'Mike Foley (Rimfire Rifle Open)'))
+None
+23
+(7, ('title', 'robert cresswell (Limited)'))
+None
+24
+(7, ('title', 'Aimee Williams (PCC Optic)'))
+None
+25
+(7, ('title', 'Bryan Porter (Rimfire Rifle Open)'))
+None
+26
+(7, ('title', 'Stephen Hart (Rimfire Pistol Irons)'))
+None
+27
+(7, ('title', 'Stephen Hart (Limited)'))
+None
+28
+(7, ('title', 'Todd Syssa (Optical Sight Revolver)'))
+None
+29
+(7, ('title', 'Eric Mayberry (Limited)'))
+None
+30
+(7, ('title', 'Alora Hager (Rimfire Pistol Irons)'))
+None
+31
+(7, ('title', 'Azael Villafranca (Rimfire Rifle Open)'))
+None
+32
+(7, ('title', 'Aimee Williams (PCC Optic)'))
+None
+33
+(7, ('title', 'Moose Liming (PCC Optic)'))
+None
+34
+(7, ('title', 'Rick Peeler (Rimfire Rifle Open)'))
+None
+35
+(7, ('title', 'Ian Zacher (Carry Optics)'))
+None
+36
+(7, ('title', 'David Johnson (PCC Optic)'))
+None
+37
+(7, ('title', 'Danny Mahelka (Rimfire Rifle Open)'))
+None
+38
+(7, ('title', 'Michael Setting (PCC Optic)'))
+None
+39
+(7, ('title', 'Jasmine Lander (Rimfire Rifle Irons)'))
+None
+40
+(7, ('title', 'Richard Lander (Rimfire Pistol Irons)'))
+None
+41
+(7, ('title', 'Taylor Lander (Rimfire Rifle Irons)'))
+None
+42
+(7, ('title', 'Max Lander (Rimfire Rifle Open)'))
+None
+43
+(7, ('title', 'Raina Lander (Rimfire Pistol Irons)'))
+None
+44
+(7, ('title', 'John Lander (Rimfire Rifle Open)'))
+None
+45
+None
+46
+None
+47
+None
+48
+None
+49
+None
+50
+None
+51
+None
+52
+None
+53
+(7, ('title', 'Annie Unsell (Rimfire Pistol Open)'))
+None
+54
+(7, ('title', 'William Pearch (Open)'))
+None
+55
+(7, ('title', 'Paul Dandini (Rimfire Rifle Open)'))
+None
+56
+(7, ('title', 'Paul Dandini (PCC Optic)'))
+None
+57
+(7, ('title', 'Jeremy Beaver (Rimfire Rifle Irons)'))
+None
+58
+(7, ('title', 'Gary Ross (Rimfire Rifle Open)'))
+None
+59
+(7, ('title', 'Annie Unsell (Rimfire Rifle Open)'))
+None
+60
+(7, ('title', 'Jeff Johnston (Rimfire Rifle Open)'))
+None
+61
+(7, ('title', 'Chris Barrett (PCC Irons)'))
+None
+62
+(7, ('title', 'Rick Turcotte (Open)'))
+None
+63
+(7, ('title', 'Karen Hooper (Rimfire Pistol Open)'))
+None
+64
+(7, ('title', 'Jeff Johnston (Rimfire Rifle Irons)'))
+None
+65
+(7, ('title', 'Charles Earp (Rimfire Pistol Open)'))
+None
+66
+(7, ('title', 'Matt Meeks (Rimfire Rifle Open)'))
+None
+67
+(7, ('title', 'Robert Halsell (PCC Optic)'))
+None
+68
+(7, ('title', 'Robert Halsell (Rimfire Rifle Open)'))
+None
+69
+(7, ('title', 'Cole Busch (Open)'))
+None
+70
+(7, ('title', 'Cole Busch (Carry Optics)'))
+None
+71
+(7, ('title', 'Kaitlin Benthin (Rimfire Rifle Irons)'))
+None
+72
+(7, ('title', 'Michael Henry (PCC Optic)'))
+None
+73
+(7, ('title', 'Barbara Watts (Rimfire Pistol Open)'))
+None
+74
+(7, ('title', 'Kenshiro nagata (Rimfire Rifle Open)'))
+None
+75
+(7, ('title', 'Jake Martens (Carry Optics)'))
+None
+76
+(7, ('title', 'Jake Martens (Open)'))
+None
+77
+(7, ('title', 'Gary Nash (PCC Irons)'))
+None
+78
+(7, ('title', 'mark weaver (Single Stack)'))
+None
+79
+(7, ('title', 'Joseph Flanagan (PCC Optic)'))
+None
+80
+(7, ('title', 'Tresa Weaver (Carry Optics)'))
+None
+81
+(7, ('title', 'Tony Diamond Tenney (Rimfire Pistol Open)'))
+None
+82
+(7, ('title', 'Nate Gibson (Rimfire Pistol Irons)'))
+None
+83
+(7, ('title', 'joseph hicks (Rimfire Pistol Open)'))
+None
+84
+(7, ('title', 'Brice Jones (Rimfire Pistol Irons)'))
+None
+85
+(7, ('title', 'Brice Jones (Rimfire Rifle Irons)'))
+None
+86
+(7, ('title', 'Lewis Hoover (PCC Irons)'))
+None
+87
+(7, ('title', 'Danny Mahelka (Production)'))
+None
+88
+(7, ('title', 'Lewis Hoover (Iron Sight Revolver)'))
+None
+89
+(7, ('title', 'Nate Gibson (Rimfire Pistol Irons)'))
+None
+90
+(7, ('title', 'Chase Rains (Rimfire Pistol Irons)'))
+None
+91
+(7, ('title', 'Timothy Guerrero (Rimfire Rifle Open)'))
+None
+92
+(7, ('title', 'Joe DePetro (Rimfire Pistol Open)'))
+None
+93
+(7, ('title', 'Timothy Guerrero (Rimfire Rifle Irons)'))
+None
+94
+(7, ('title', 'Lance Bratcher Jr (Optical Sight Revolver)'))
+None
+95
+(7, ('title', 'Joe Gray (Carry Optics)'))
+None
+96
+(7, ('title', 'David Lew (Carry Optics)'))
+None
+97
+(7, ('title', 'Larry Lynn (Limited)'))
+None
+98
+(7, ('title', 'Rick Peeler (PCC Optic)'))
+None
+99
+(7, ('title', 'Karl Sutterlin (Rimfire Rifle Open)'))
+None
+100
+(7, ('title', 'Don Akin (PCC Irons)'))
+None
+101
+(7, ('title', 'Sydney Vavroch (PCC Irons)'))
+None
+102
+(7, ('title', 'Ian Zacher (Rimfire Pistol Open)'))
+None
+103
+(7, ('title', 'Jeff Johnston (PCC Irons)'))
+None
+104
+(7, ('title', 'Jeff Johnston (PCC Optic)'))
+None
+105
+(7, ('title', 'Andy Browne (Rimfire Rifle Open)'))
+None
+106
+(7, ('title', 'Jessika Smith (Rimfire Pistol Open)'))
+None
+107
+(7, ('title', 'Jessika Smith (Rimfire Rifle Open)'))
+None
+108
+(7, ('title', 'Jeremy Beaver (Production)'))
+None
+109
+(7, ('title', 'Jeremy Beaver (Limited)'))
+None
+110
+(7, ('title', 'Chet Whistle (Rimfire Pistol Open)'))
+None
+111
+(7, ('title', 'Steve SCI-FI COWBOY Thornton (Optical Sight Revolver)'))
+None
+112
+(7, ('title', 'Steve SCI-FI COWBOY Thornton (Rimfire Rifle Open)'))
+None
+113
+(7, ('title', 'Josh Howle (Rimfire Pistol Open)'))
+None
+114
+(7, ('title', 'James Shaw (PCC Optic)'))
+None
+115
+(7, ('title', 'Rob McCready (PCC Optic)'))
+None
+116
+(7, ('title', 'Todd Syssa (PCC Optic)'))
+None
+117
+(7, ('title', 'Rob McCready (Rimfire Rifle Open)'))
+None
+118
+(7, ('title', 'Charles Earp (Optical Sight Revolver)'))
+None
+119
+(7, ('title', 'joshua cope (PCC Optic)'))
+None
+120
+(7, ('title', 'Rick Turcotte (PCC Optic)'))
+None
+121
+(7, ('title', 'Charles Earp (Rimfire Pistol Open)'))
+None
+122
+(7, ('title', 'Chris Barrett (Open)'))
+None
+123
+(7, ('title', 'charles Wylie (Rimfire Rifle Irons)'))
+None
+124
+(7, ('title', 'Grant Kunkel (Rimfire Rifle Open)'))
+None
+125
+(7, ('title', 'Trenton Mitsuoka (Rimfire Rifle Open)'))
+None
+126
+(7, ('title', 'Matt Meeks (Rimfire Pistol Open)'))
+None
+127
+(7, ('title', 'Kaitlin Benthin (Rimfire Rifle Open)'))
+None
+128
+(7, ('title', 'Eddy Murray (PCC Optic)'))
+None
+129
+(7, ('title', 'Chris Mitsuoka (Rimfire Pistol Open)'))
+None
+130
+(7, ('title', 'Eddy Murray (PCC Irons)'))
+None
+131
+(7, ('title', 'Cole Busch (Rimfire Pistol Irons)'))
+None
+132
+(7, ('title', 'Cole Busch (Rimfire Pistol Open)'))
+None
+133
+(7, ('title', 'Jake Martens 6 (Single Stack)'))
+None
+134
+(7, ('title', 'Jake Martens 7 (Limited)'))
+None
+135
+(7, ('title', 'Rick Brotzel (PCC Optic)'))
+None
+136
+(7, ('title', 'Rick Brotzel (Open)'))
+None
+137
+(7, ('title', 'Zack Jones (Rimfire Rifle Open)'))
+None
+138
+(7, ('title', 'Mike Foley (Rimfire Rifle Irons)'))
+None
+139
+(7, ('title', 'Alecia Russell (Open)'))
+None
+140
+(7, ('title', 'Joseph Flanagan (PCC Irons)'))
+None
+141
+(7, ('title', 'Tony Diamond Tenney (Rimfire Rifle Open)'))
+None
+142
+(7, ('title', 'Tresa Weaver (Rimfire Pistol Irons)'))
+None
+143
+(7, ('title', 'Stephen Hart (PCC Optic)'))
+None
+144
+(7, ('title', 'Ian Zacher (PCC Optic)'))
+None
+145
+(7, ('title', 'Nate Gibson (PCC Optic)'))
+None
+146
+(7, ('title', 'Steve Foster (PCC Optic)'))
+None
+147
+(7, ('title', 'Maximus White (PCC Optic)'))
+None
+148
+(7, ('title', 'Grant Kunkel (PCC Optic)'))
+None
+149
+(7, ('title', 'Brice Jones (PCC Optic)'))
+None
+150
+(7, ('title', 'Cole Busch (PCC Optic)'))
+None
+151
+(7, ('title', 'Gary Nash (PCC Optic)'))
+None
+152
+(7, ('title', 'Tess Nash (PCC Optic)'))
+None
+153
+(7, ('title', 'Mike Foley (Rimfire Pistol Open)'))
+None
+154
+(7, ('title', 'robert cresswell (Carry Optics)'))
+None
+155
+(7, ('title', 'Aimee Williams (Rimfire Pistol Open)'))
+None
+156
+(7, ('title', 'Bryan Porter (PCC Optic)'))
+None
+157
+(7, ('title', 'Larry Steeley, Jr. (Rimfire Rifle Open)'))
+None
+158
+(7, ('title', 'Vince Taporowski (PCC Optic)'))
+None
+159
+(7, ('title', 'Alora Hager (PCC Irons)'))
+None
+160
+(7, ('title', 'Danny Mahelka (Carry Optics)'))
+None
+161
+(7, ('title', 'John Holbrook (Rimfire Rifle Open)'))
+None
+162
+(7, ('title', 'Joe DePetro (Production)'))
+None
+163
+(7, ('title', 'Eric Mayberry (Rimfire Pistol Irons)'))
+None
+164
+(7, ('title', 'John Holbrook (PCC Optic)'))
+None
+165
+(7, ('title', 'Andy Browne (PCC Optic)'))
+None
+166
+(7, ('title', 'Tucker Browne (Rimfire Rifle Open)'))
+None
+167
+(7, ('title', 'Case Thomas (Rimfire Pistol Open)'))
+None
+168
+(7, ('title', 'Russ Thomas (Rimfire Pistol Open)'))
+None
+169
+(7, ('title', 'Joel Fishkin (Open)'))
+None
+170
+(7, ('title', 'Tom Naelon (Open)'))
+None
+171
+(7, ('title', 'Timothy Guerrero (PCC Optic)'))
+None
+172
+(7, ('title', 'Karl Sutterlin (Rimfire Pistol Open)'))
+None
+173
+(7, ('title', 'Chase Rains (Limited)'))
+None
+174
+(7, ('title', 'William Pearch (PCC Optic)'))
+None
+175
+(7, ('title', 'Braeson Hollenbeck (Rimfire Pistol Open)'))
+None
+176
+(7, ('title', 'Dustin Duhamel (Rimfire Rifle Open)'))
+None
+177
+(7, ('title', 'Charles Duhamel (Rimfire Rifle Open)'))
+None
+178
+(7, ('title', 'David Olhasso (Optical Sight Revolver)'))
+None
+179
+(7, ('title', 'David Olhasso (Iron Sight Revolver)'))
+None
+180
+(7, ('title', 'James McGinty (Open)'))
+None
+181
+(7, ('title', 'James McGinty (PCC Irons)'))
+None
+182
+(7, ('title', 'Todd Syssa (Rimfire Rifle Irons)'))
+None
+183
+(7, ('title', 'Josh Howle (Rimfire Rifle Open)'))
+None
+184
+(7, ('title', 'Charles Earp (PCC Optic)'))
+None
+185
+(7, ('title', 'Lance Bratcher Jr (Carry Optics)'))
+None
+186
+(7, ('title', 'Chris Barrett (Rimfire Rifle Irons)'))
+None
+187
+(7, ('title', 'Lance sr Bratcher (PCC Optic)'))
+None
+188
+(7, ('title', 'Cody Kenon (Single Stack)'))
+None
+189
+(7, ('title', 'Rick Turcotte (Rimfire Rifle Open)'))
+None
+190
+(7, ('title', 'James Shaw (Rimfire Rifle Open)'))
+None
+191
+(7, ('title', 'Chad Wylie (Single Stack)'))
+None
+192
+(7, ('title', 'Jeff Jones (PCC Irons)'))
+None
+193
+(7, ('title', 'mark weaver (Carry Optics)'))
+None
+194
+(7, ('title', 'Dave Sevigny (Production)'))
+None
+195
+(7, ('title', 'Lance sr Bratcher (PCC Optic)'))
+None
+196
+(7, ('title', 'Tresa Weaver (Rimfire Rifle Open)'))
+None
+197
+(7, ('title', 'Rick Turcotte (Rimfire Rifle Open)'))
+None
+198
+(7, ('title', 'Kaylee Shaner (PCC Irons)'))
+None
+199
+(7, ('title', 'Jake Martens 9 (Production)'))
+None
+200
+(7, ('title', 'Jake Martens 11 (Rimfire Pistol Open)'))
+None
+201
+(7, ('title', 'Rick Brotzel (Rimfire Rifle Open)'))
+None
+202
+(7, ('title', 'Annie Unsell (Rimfire Pistol Irons)'))
+None
+203
+(7, ('title', 'Kolby Pavlock (Rimfire Pistol Irons)'))
+None
+204
+(7, ('title', 'Annie Unsell (Rimfire Rifle Irons)'))
+None
+205
+(7, ('title', 'Joseph Flanagan (Open)'))
+None
+206
+(7, ('title', 'Kurt Grimes (Open)'))
+None
+207
+(7, ('title', 'Kolby Pavlock (Rimfire Pistol Open)'))
+None
+208
+(7, ('title', 'Nate Gibson (Rimfire Pistol Open)'))
+None
+209
+(7, ('title', 'Lance Jr Bratcher (Rimfire Pistol Open)'))
+None
+210
+(7, ('title', 'Patrick Free (Rimfire Pistol Open)'))
+None
+211
+(7, ('title', 'KC Eusebio (Rimfire Pistol Open)'))
+None
+212
+(7, ('title', 'Adam Renno (Rimfire Pistol Open)'))
+None
+213
+(7, ('title', 'Daniel Mathias (Rimfire Pistol Open)'))
+None
+214
+(7, ('title', 'Michael Poggie (Rimfire Pistol Open)'))
+None
+215
+(7, ('title', 'Grant Kunkel (Rimfire Pistol Open)'))
+None
+216
+(7, ('title', 'Brice Jones (Rimfire Pistol Open)'))
+None
+217
+(7, ('title', 'Eugene Oh (Carry Optics)'))
+None
+218
+(7, ('title', 'CARL SIMPSON (Production)'))
+None
+219
+(7, ('title', 'Muneki Samejima (Carry Optics)'))
+None
+220
+(7, ('title', 'Bridget Cunningham (Carry Optics)'))
+None
+221
+(7, ('title', 'KC Eusebio (Rimfire Pistol Open)'))
+None
+222
+(7, ('title', 'Larry Steeley, Jr. (Rimfire Pistol Open)'))
+None
+223
+(7, ('title', 'Timothy Guerrero (Open)'))
+None
+224
+(7, ('title', 'John Holbrook (Rimfire Pistol Open)'))
+None
+225
+(7, ('title', 'Grant Kunkel (Rimfire Pistol Open)'))
+None
+226
+(7, ('title', 'Joe DePetro (Limited)'))
+None
+227
+(7, ('title', 'Tom Naelon (Rimfire Pistol Open)'))
+None
+228
+(7, ('title', 'Annie Unsell (PCC Irons)'))
+None
+229
+(7, ('title', 'Joel Fishkin (Rimfire Rifle Open)'))
+None
+230
+(7, ('title', 'matt Bowen (Rimfire Pistol Irons)'))
+None
+231
+(7, ('title', 'David Bowen (Rimfire Pistol Open)'))
+None
+232
+(7, ('title', 'Peyton Brewer (Rimfire Pistol Open)'))
+None
+233
+(7, ('title', 'Brian Shirey (Limited)'))
+None
+234
+(7, ('title', 'Parker Brewer (Rimfire Rifle Open)'))
+None
+235
+(7, ('title', 'Vince Taporowski (Rimfire Pistol Open)'))
+None
+236
+(7, ('title', 'Jason Brewer (Rimfire Pistol Open)'))
+None
+237
+(7, ('title', 'Braeson Hollenbeck (Carry Optics)'))
+None
+238
+(7, ('title', 'James Rushing (Carry Optics)'))
+None
+239
+(7, ('title', 'David Olhasso (Rimfire Pistol Irons)'))
+None
+240
+(7, ('title', 'Mackenzie Bragg (PCC Optic)'))
+None
+241
+(7, ('title', 'Donnie Duren (Rimfire Pistol Open)'))
+None
+242
+(7, ('title', 'Heather Martin (PCC Irons)'))
+None
+243
+(7, ('title', 'Lance Bratcher (Rimfire Pistol Irons)'))
+None
+244
+(7, ('title', 'Parker Brewer (Rimfire Rifle Open)'))
+None
+245
+(7, ('title', 'Lorinda Nease (Rimfire Rifle Open)'))
+None
+246
+(7, ('title', 'matt Bowen (Rimfire Pistol Open)'))
+None
+247
+(7, ('title', 'Chris Barrett (Rimfire Rifle Open)'))
+None
+248
+(7, ('title', 'Bailey Gallagher (Rimfire Pistol Irons)'))
+None
+249
+(7, ('title', 'David Johnson (Rimfire Pistol Open)'))
+None
+250
+(7, ('title', 'John Suter (PCC Optic)'))
+None
+251
+(7, ('title', 'Kaitlin Benthin (PCC Irons)'))
+None
+252
+(7, ('title', 'Bailey Gallagher (Rimfire Pistol Irons)'))
+None
+253
+(7, ('title', 'Steve SCI-FI COWBOY Thornton (Iron Sight Revolver)'))
+None
+254
+(7, ('title', 'Rick Peeler (Rimfire Pistol Open)'))
+None
+255
+(7, ('title', 'Kaylee Shaner (Rimfire Rifle Open)'))
+None
+256
+(7, ('title', 'Steve SCI-FI COWBOY Thornton (PCC Irons)'))
+None
+257
+(7, ('title', 'Chad Wylie (PCC Irons)'))
+None
+258
+(7, ('title', 'Maximus White (Open)'))
+None
+259
+(7, ('title', 'Jeff Jones (PCC Optic)'))
+None
+260
+(7, ('title', 'Tresa Weaver (Rimfire Pistol Open)'))
+None
+261
+(7, ('title', 'Trenton Mitsuoka (PCC Optic)'))
+None
+262
+(7, ('title', 'Matt Meeks (Optical Sight Revolver)'))
+None
+263
+(7, ('title', 'Kenshiro nagata (Open)'))
+None
+264
+(7, ('title', 'Takumi Suzuki (Optical Sight Revolver)'))
+None
+265
+(7, ('title', 'Chris Mitsuoka (Open)'))
+None
+266
+(7, ('title', 'Kenshiro nagata (PCC Optic)'))
+None
+267
+(7, ('title', 'Jake Martens 10 (Rimfire Pistol Irons)'))
+None
+268
+(7, ('title', 'Tess Nash (Rimfire Rifle Open)'))
+None
+269
+(7, ('title', 'Gary Nash (Rimfire Rifle Irons)'))
+None
+270
+(7, ('title', 'Alecia Russell (Carry Optics)'))
+None
+271
+(7, ('title', 'Diane McCoy (PCC Optic)'))
+None
+272
+(7, ('title', 'Billy McCoy (PCC Optic)'))
+None
+273
+(7, ('title', 'Joseph Flanagan (Carry Optics)'))
+None
+274
+(7, ('title', 'Don Akin (Rimfire Rifle Irons)'))
+None
+275
+(7, ('title', 'Jessika Smith (Carry Optics)'))
+None
+276
+(7, ('title', 'Collin Cogdill (PCC Optic)'))
+None
+277
+(7, ('title', 'Mike Foley (Open)'))
+None
+278
+(7, ('title', 'Seth Fox (Open)'))
+None
+279
+(7, ('title', 'Michael Poggie (Iron Sight Revolver)'))
+None
+280
+(7, ('title', 'Daniel Mathias (Limited)'))
+None
+281
+(7, ('title', 'Daniel Mathias (Open)'))
+None
+282
+(7, ('title', 'Kaylee Shaner (Rimfire Rifle Irons)'))
+None
+283
+(7, ('title', 'Issa Benavidez (Rimfire Rifle Irons)'))
+None
+284
+(7, ('title', 'Brian Ferguson (Rimfire Rifle Open)'))
+None
+285
+(7, ('title', 'Gary Nash (Rimfire Pistol Irons)'))
+None
+286
+(7, ('title', 'Tess Nash (Rimfire Pistol Open)'))
+None
+287
+(7, ('title', 'Chad Wylie (PCC Optic)'))
+None
+288
+(7, ('title', 'Tony Martin (PCC Optic)'))
+None
+289
+(7, ('title', 'Ethan Inocando (PCC Optic)'))
+None
+290
+(7, ('title', 'Johnathon Ward (PCC Optic)'))
+None
+291
+(7, ('title', 'Natalie Mignano (Rimfire Rifle Open)'))
+None
+292
+(7, ('title', 'Anasofia Montemayor (PCC Optic)'))
+None
+293
+(7, ('title', 'Andy Smith (Rimfire Rifle Irons)'))
+None
+294
+(7, ('title', 'Joe DePetro (Open)'))
+None
+295
+(7, ('title', "Jim O'Young (Open)"))
+None
+296
+(7, ('title', 'Bob Kasson (PCC Optic)'))
+None
+297
+(7, ('title', 'Chris Mitsuoka (Rimfire Rifle Open)'))
+None
+298
+(7, ('title', 'Trenton Mitsuoka (Open)'))
+None
+299
+(7, ('title', 'Brad Henske (Rimfire Pistol Open)'))
+None
+300
+(7, ('title', 'Kolby Pavlock (Carry Optics)'))
+None
+301
+(7, ('title', 'Jeremy Beaver (PCC Optic)'))
+None
+302
+(7, ('title', 'Karl Sutterlin (Rimfire Rifle Irons)'))
+None
+303
+(7, ('title', 'William Pearch (Rimfire Pistol Open)'))
+None
+304
+(7, ('title', 'Tom Naelon (Rimfire Rifle Irons)'))
+None
+305
+(7, ('title', 'Heather Martin (Rimfire Rifle Open)'))
+None
+306
+(7, ('title', 'Jeff Jones (Rimfire Pistol Open)'))
+None
+307
+(7, ('title', 'Mackenzie Bragg (Rimfire Pistol Open)'))
+None
+308
+(7, ('title', 'Vance Williamson (Rimfire Pistol Irons)'))
+None
+309
+(7, ('title', 'Kurt Grimes (PCC Optic)'))
+None
+310
+(7, ('title', 'Greg Cannon (Optical Sight Revolver)'))
+None
+311
+(7, ('title', 'William Pearch (Rimfire Pistol Open)'))
+None
+312
+(7, ('title', 'Aimee Williams (Rimfire Rifle Open)'))
+None
+313
+(7, ('title', 'Bryan Porter (Rimfire Rifle Irons)'))
+None
+314
+(7, ('title', 'Ted Pesta (Iron Sight Revolver)'))
+None
+315
+(7, ('title', 'Rob Ben (Rimfire Pistol Irons)'))
+None
+316
+(7, ('title', 'Greg Cannon (Rimfire Pistol Open)'))
+None
+317
+(7, ('title', 'Caleb Peterson (Rimfire Pistol Open)'))
+None
+318
+(7, ('title', 'Rick Nease (Rimfire Pistol Open)'))
+None
+319
+(7, ('title', 'Takumi Suzuki (PCC Optic)'))
+None
+320
+(7, ('title', 'Rick Nease (Rimfire Rifle Open)'))
+None
+321
+(7, ('title', 'Chris Barrett (Rimfire Pistol Open)'))
+None
+322
+(7, ('title', 'Ryan Wagner (Rimfire Pistol Open)'))
+None
+323
+(7, ('title', 'Alan Coleman (PCC Irons)'))
+None
+324
+(7, ('title', 'Donnie Duren (Open)'))
+None
+325
+(7, ('title', 'Adam Renno (Rimfire Rifle Open)'))
+None
+326
+(7, ('title', 'Jon Galusha (Limited)'))
+None
+327
+(7, ('title', 'Alexander Bakken (Iron Sight Revolver)'))
+None
+328
+(7, ('title', 'Patrick Free (Carry Optics)'))
+None
+329
+(7, ('title', 'Chris Bakken (Iron Sight Revolver)'))
+None
+330
+(7, ('title', 'Nicholas Semenov (PCC Irons)'))
+None
+331
+(7, ('title', 'David Johnson (Iron Sight Revolver)'))
+None
+332
+(7, ('title', 'Connor Knapp (Rimfire Pistol Open)'))
+None
+333
+(7, ('title', 'Collin Cogdill (Open)'))
+None
+334
+(7, ('title', 'Jerry Cogdill (Rimfire Rifle Open)'))
+None
+335
+(7, ('title', 'mark weaver (Rimfire Rifle Irons)'))
+None
+336
+(7, ('title', 'Brian Bentley (PCC Optic)'))
+None
+337
+(7, ('title', 'Jerry Cogdill (Rimfire Pistol Open)'))
+None
+338
+(7, ('title', 'Nate Gibson (Rimfire Rifle Irons)'))
+None
+339
+(7, ('title', 'Collin Cogdill (Rimfire Rifle Open)'))
+None
+340
+(7, ('title', 'Tresa Weaver (PCC Optic)'))
+None
+341
+(7, ('title', 'Kolby Pavlock (Rimfire Rifle Irons)'))
+None
+342
+(7, ('title', 'Nate Gibson (Rimfire Rifle Open)'))
+None
+343
+(7, ('title', 'Stephen Hart (Rimfire Rifle Open)'))
+None
+344
+(7, ('title', 'Lance Jr Bratcher (Rimfire Rifle Open)'))
+None
+345
+(7, ('title', 'Steve Foster (Rimfire Rifle Open)'))
+None
+346
+(7, ('title', 'Maximus White (Rimfire Rifle Open)'))
+None
+347
+(7, ('title', 'Grant Kunkel (Rimfire Rifle Irons)'))
+None
+348
+(7, ('title', 'Ethan Inocando (Rimfire Rifle Open)'))
+None
+349
+(7, ('title', 'Brice Jones (Rimfire Rifle Open)'))
+None
+350
+(7, ('title', 'RANDY IRMER (Rimfire Rifle Open)'))
+None
+351
+(7, ('title', 'Chad Wylie (Open)'))
+None
+352
+(7, ('title', 'Kaitlin Benthin (PCC Optic)'))
+None
+353
+(7, ('title', 'Don Akin (Rimfire Rifle Open)'))
+None
+354
+(7, ('title', 'Jeremy Beaver (PCC Irons)'))
+None
+355
+(7, ('title', 'Carleigh Chadwick (Rimfire Pistol Open)'))
+None
+356
+(7, ('title', 'Daniel Mathias (Single Stack)'))
+None
+357
+(7, ('title', 'Gabriel Sanchez (Rimfire Rifle Irons)'))
+None
+358
+(7, ('title', 'Gabriel Sanchez (Rimfire Rifle Open)'))
+None
+359
+(7, ('title', 'Carleigh Chadwick (Rimfire Rifle Open)'))
+None
+360
+(7, ('title', 'seth fox (Limited)'))
+None
+361
+(7, ('title', 'Kaylee Shaner (Rimfire Pistol Open)'))
+None
+362
+(7, ('title', 'Kaylee Shaner (PCC Optic)'))
+None
+363
+(7, ('title', 'Nicholas Semenov (PCC Optic)'))
+None
+364
+(7, ('title', 'CARL SIMPSON (Carry Optics)'))
+None
+365
+(7, ('title', 'Koby fox (Rimfire Rifle Open)'))
+None
+366
+(7, ('title', 'Bridget Cunningham (Carry Optics)'))
+None
+367
+(7, ('title', 'Gabriel Sanchez (Rimfire Rifle Irons)'))
+None
+368
+(7, ('title', 'Bob Kasson (Rimfire Rifle Open)'))
+None
+369
+(7, ('title', 'Brennen Fox (Rimfire Rifle Open)'))
+None
+370
+(7, ('title', 'Kennedy Stewart (Rimfire Rifle Irons)'))
+None
+371
+(7, ('title', 'Timothy Guerrero (Rimfire Pistol Open)'))
+None
+372
+(7, ('title', 'Rich Bartels (Rimfire Rifle Open)'))
+None
+373
+(7, ('title', 'Randall Miller (Rimfire Rifle Irons)'))
+None
+374
+(7, ('title', 'Timothy Guerrero (Rimfire Pistol Irons)'))
+None
+375
+(7, ('title', 'Tom Naelon (Rimfire Rifle Open)'))
+None
+376
+(7, ('title', 'Ryan Reid (Carry Optics)'))
+None
+377
+(7, ('title', 'Anasofia Montemayor (Rimfire Rifle Open)'))
+None
+378
+(7, ('title', 'Vince Taporowski (Rimfire Rifle Open)'))
+None
+379
+(7, ('title', 'Larry Steeley, Jr. (PCC Optic)'))
+None
+380
+(7, ('title', 'Amanda Sansom (Rimfire Rifle Irons)'))
+None
+381
+(7, ('title', 'Dan Howard (Rimfire Pistol Open)'))
+None
+382
+(7, ('title', 'Ben DeHaemers (PCC Optic)'))
+None
+383
+(7, ('title', 'Tanner Gibson (Rimfire Rifle Irons)'))
+None
+384
+(7, ('title', 'John Suter (Rimfire Rifle Open)'))
+None
+385
+(7, ('title', 'Dennis Webb (Rimfire Rifle Open)'))
+None
+386
+(7, ('title', 'Denise DeHaemers (Rimfire Pistol Open)'))
+None
+387
+(7, ('title', 'James Rushing (Rimfire Pistol Open)'))
+None
+388
+(7, ('title', 'Dan Howard (Rimfire Rifle Open)'))
+None
+389
+(7, ('title', 'James Rushing (Rimfire Rifle Open)'))
+None
+390
+(7, ('title', 'Tanner Gibson (Rimfire Rifle Open)'))
+None
+391
+(7, ('title', 'Chris Barrett (PCC Optic)'))
+None
+392
+(7, ('title', 'Bailey Gallagher (PCC Optic)'))
+None
+393
+(7, ('title', 'Bailey Gallagher (Rimfire Rifle Open)'))
+None
+394
+(7, ('title', 'Alan Coleman (PCC Optic)'))
+None
+395
+(7, ('title', 'David Bowen (Open)'))
+None
+396
+(7, ('title', 'Ryan Wagner (Open)'))
+None
+397
+(7, ('title', 'Erik Jensen (Open)'))
+None
+398
+(7, ('title', 'Alan Coleman (Rimfire Pistol Open)'))
+None
+399
+(7, ('title', 'Nathan McCord (Carry Optics)'))
+None
+400
+(7, ('title', 'Matt Meeks (Iron Sight Revolver)'))
+None
+401
+(7, ('title', 'Cole Busch (Rimfire Rifle Irons)'))
+None
+402
+(7, ('title', 'Connor Knapp (Rimfire Rifle Irons)'))
+None
+403
+(7, ('title', 'Heather Martin (Iron Sight Revolver)'))
+None
+404
+(7, ('title', 'Cole Busch (Rimfire Rifle Open)'))
+None
+405
+(7, ('title', 'Jeff Jones (Open)'))
+None
+406
+(7, ('title', 'Mike Sandin (Rimfire Pistol Irons)'))
+None
+407
+(7, ('title', 'Connor Knapp (PCC Optic)'))
+None
+408
+(7, ('title', 'Dan Revelle (PCC Optic)'))
+None
+409
+(7, ('title', 'joseph hicks (Open)'))
+None
+410
+(7, ('title', 'Steve SCI-FI COWBOY Thornton (PCC Optic)'))
+None
+411
+(7, ('title', 'Michael Poggie (Open)'))
+None
+412
+(7, ('title', 'Jessika Smith (Rimfire Rifle Open)'))
+None
+413
+(7, ('title', 'Brian Bentley (Rimfire Rifle Open)'))
+None
+414
+(7, ('title', 'Cole Busch (Rimfire Rifle Open)'))
+None
+415
+(7, ('title', 'Sydney Vavroch (Rimfire Pistol Irons)'))
+None
+416
+(7, ('title', 'GABE Berger (Rimfire Rifle Open)'))
+None
+417
+(7, ('title', 'Steve Cooper (Rimfire Rifle Irons)'))
+None
+418
+(7, ('title', 'Diane McCoy (Rimfire Rifle Open)'))
+None
+419
+(7, ('title', 'Billy McCoy (Rimfire Rifle Open)'))
+None
+420
+(7, ('title', 'Caleb Peterson (Rimfire Rifle Open)'))
+None
+421
+(7, ('title', 'Michael Poggie (Optical Sight Revolver)'))
+None
+422
+(7, ('title', 'KC Eusebio (Open)'))
+None
+423
+(7, ('title', 'Jessie Harrison (Open)'))
+None
+424
+(7, ('title', 'Grant Kunkel (Open)'))
+None
+425
+(7, ('title', 'Muneki Samejima (Open)'))
+None
+426
+(7, ('title', 'Ethan Inocando (Open)'))
+None
+427
+(7, ('title', 'Dave Sevigny (Limited)'))
+None
+428
+(7, ('title', 'Tony Martin (Rimfire Rifle Open)'))
+None
+429
+(7, ('title', 'Stephen Hart (Rimfire Pistol Open)'))
+None
+430
+(7, ('title', 'Heather Martin (Single Stack)'))
+None
+431
+(7, ('title', 'Stephen Hart (Open)'))
+None
+432
+(7, ('title', 'Johnathon Ward (Rimfire Rifle Open)'))
+None
+433
+(7, ('title', 'Connor Knapp (Rimfire Rifle Open)'))
+None
+434
+(7, ('title', 'Dan Howard (Open)'))
+None
+435
+(7, ('title', 'Natalie Mignano (PCC Optic)'))
+None
+436
+(7, ('title', 'Eugene Oh (Open)'))
+None
+437
+(7, ('title', 'Gatlin Johnson (PCC Optic)'))
+None
+438
+(7, ('title', 'Gatlin Johnson (Rimfire Pistol Open)'))
+None
+439
+(7, ('title', 'Lance sr Bratcher (PCC Irons)'))
+None
+440
+(7, ('title', 'Lance Bratcher Jr (PCC Optic)'))
+None
+441
+(7, ('title', 'Ryan Wagner (Optical Sight Revolver)'))
+None
+442
+(7, ('title', 'Alexander Bakken (Limited)'))
+None
+443
+(7, ('title', 'Chris Bakken (Optical Sight Revolver)'))
+None
+444
+(7, ('title', 'Drew Coleman (Rimfire Pistol Open)'))
+None
+445
+(7, ('title', 'Nathan McCord (PCC Optic)'))
+None
+446
+(7, ('title', 'William Pearch (Rimfire Pistol Irons)'))
+None
+447
+(7, ('title', 'Nathan McCord (Rimfire Rifle Open)'))
+None
+448
+(7, ('title', 'James McCorvey (Rimfire Rifle Irons)'))
+None
+449
+(7, ('title', 'Tom Naelon (Carry Optics)'))
+None
+450
+(7, ('title', 'Patrick Free (Rimfire Rifle Open)'))
+None
+451
+(7, ('title', 'Mackenzie Bragg (Rimfire Rifle Open)'))
+None
+452
+(7, ('title', 'Ronald Guyer (Optical Sight Revolver)'))
+None
+453
+(7, ('title', 'Tanner Gibson (Rimfire Pistol Irons)'))
+None
+454
+(7, ('title', 'Scott Coleman (Iron Sight Revolver)'))
+None
+455
+(7, ('title', 'Bryan Porter (Rimfire Pistol Open)'))
+None
+456
+(7, ('title', 'James McCorvey (Rimfire Rifle Irons)'))
+None
+457
+(7, ('title', 'Brian Ferguson (Rimfire Rifle Irons)'))
+None
+458
+(7, ('title', 'Patrick Free (Rimfire Rifle Open)'))
+None
+459
+(7, ('title', 'Mark Tapp (PCC Optic)'))
+None
+460
+(7, ('title', 'Jerry Chapman Jr (Rimfire Rifle Open)'))
+None
+461
+(7, ('title', 'Jerry Chapman Sr (Rimfire Pistol Open)'))
+None
+462
+(7, ('title', 'Kolby Pavlock (Open)'))
+None
+463
+(7, ('title', 'Travis Miracle (PCC Optic)'))
+None
+464
+(7, ('title', 'Alan Coleman (Rimfire Rifle Irons)'))
+None
+465
+(7, ('title', 'Travis Miracle (Carry Optics)'))
+None
+466
+(7, ('title', 'Alvin Dymowski (Rimfire Rifle Open)'))
+None
+467
+(7, ('title', 'Collin Cogdill (Rimfire Pistol Open)'))
+None
+468
+(7, ('title', 'Jeff Jones (Rimfire Rifle Open)'))
+None
+469
+(7, ('title', 'Nick Brandt (PCC Irons)'))
+None
+470
+(7, ('title', 'E Brandt (Rimfire Rifle Open)'))
+None
+471
+(7, ('title', 'Jon Galusha (Single Stack)'))
+None
+472
+(7, ('title', 'Sydney Vavroch (Rimfire Rifle Irons)'))
+None
+473
+(7, ('title', 'Andy Smith (Rimfire Rifle Open)'))
+None
+474
+(7, ('title', 'Nicholas Semenov (Rimfire Rifle Open)'))
+None
+475
+(7, ('title', 'David Johnson (Optical Sight Revolver)'))
+None
+476
+(7, ('title', 'mark weaver (Rimfire Pistol Open)'))
+None
+477
+(7, ('title', 'Chris Benson (Rimfire Pistol Open)'))
+None
+478
+(7, ('title', 'Brice Jones (Carry Optics)'))
+None
+479
+(7, ('title', 'Steve Speer (Rimfire Pistol Open)'))
+None
+480
+(7, ('title', 'Erik Jensen (Rimfire Rifle Open)'))
+None
+481
+(7, ('title', 'Nate Gibson (Carry Optics)'))
+None
+482
+(7, ('title', 'Eddy Murray (PCC Optic)'))
+None
+483
+(7, ('title', 'Don Akin (PCC Optic)'))
+None
+484
+(7, ('title', 'Steve Foster (Rimfire Pistol Open)'))
+None
+485
+(7, ('title', 'James Rushing (Rimfire Pistol Irons)'))
+None
+486
+(7, ('title', 'Steve Foster (Open)'))
+None
+487
+(7, ('title', 'James Rushing (Rimfire Rifle Irons)'))
+None
+488
+(7, ('title', 'vanessa Foster (Rimfire Pistol Open)'))
+None
+489
+(7, ('title', 'Michael Baker (Rimfire Rifle Open)'))
+None
+490
+(7, ('title', 'Elsie Baker (PCC Optic)'))
+None
+491
+(7, ('title', 'Gatlin Johnson (Rimfire Rifle Open)'))
+None
+492
+(7, ('title', 'Jeremy Dean (Open)'))
+None
+493
+(7, ('title', 'Abby DuCharme (Rimfire Pistol Open)'))
+None
+494
+(7, ('title', 'Jeremy Dean (PCC Optic)'))
+None
+495
+(7, ('title', 'Abby DuCharme (Rimfire Rifle Open)'))
+None
+496
+(7, ('title', 'Scott Coleman (Rimfire Rifle Irons)'))
+None
+497
+(7, ('title', 'Ryan Wagner (Carry Optics)'))
+None
+498
+(7, ('title', 'Scott Coleman (Rimfire Pistol Open)'))
+None
+499
+(7, ('title', 'Ryan Reid (Carry Optics)'))
+None
+500
+(7, ('title', 'Jeremy Dean (Open)'))
+None
+501
+(7, ('title', 'CARL SIMPSON (Open)'))
+None
+502
+(7, ('title', 'Caleb smith (Rimfire Rifle Irons)'))
+None
+503
+(7, ('title', 'Dan Revelle (Rimfire Rifle Open)'))
+None
+504
+(7, ('title', 'Bridget Cunningham (Carry Optics)'))
+None
+505
+(7, ('title', 'Erik Jensen (PCC Optic)'))
+None
+506
+(7, ('title', 'Nicholas Semenov (Rimfire Pistol Open)'))
+None
+507
+(7, ('title', 'Danny Mahelka (Rimfire Pistol Open)'))
+None
+508
+(7, ('title', 'Kennedy Stewart (PCC Optic)'))
+None
+509
+(7, ('title', 'Kennedy Stewart (Rimfire Rifle Open)'))
+None
+510
+(7, ('title', 'Tom Naelon (PCC Optic)'))
+None
+511
+(7, ('title', 'Carleigh Chadwick (PCC Optic)'))
+None
+512
+(7, ('title', 'Eddy Murray (PCC Optic)'))
+None
+513
+(7, ('title', 'craig Stewart (Rimfire Pistol Open)'))
+None
+514
+(7, ('title', 'Vance Williamson (Rimfire Rifle Open)'))
+None
+515
+(7, ('title', 'Todd Smith (Single Stack)'))
+None
+516
+(7, ('title', 'Ben DeHaemers (Rimfire Rifle Open)'))
+None
+517
+(7, ('title', 'Denise DeHaemers (Rimfire Rifle Open)'))
+None
+518
+(7, ('title', 'Alvin Dymowski (PCC Optic)'))
+None
+519
+(7, ('title', 'Ronald Guyer (Rimfire Pistol Open)'))
+None
+520
+(7, ('title', 'Dennis Webb (PCC Optic)'))
+None
+521
+(7, ('title', 'Jeremy Beaver (Rimfire Rifle Open)'))
+None
+522
+(7, ('title', 'Mackenzie Bragg (Rimfire Rifle Irons)'))
+None
+523
+(7, ('title', 'Ben DeHaemers (Rimfire Pistol Open)'))
+None
+524
+(7, ('title', 'Lance sr Bratcher (Rimfire Rifle Open)'))
+None
+525
+(7, ('title', 'Travis Miracle (Rimfire Rifle Open)'))
+None
+526
+(7, ('title', 'Travis Miracle (Rimfire Rifle Irons)'))
+None
+527
+(7, ('title', 'Lance Bratcher Jr (Rimfire Rifle Irons)'))
+None
+528
+(7, ('title', 'Lance Bratcher Jr (Rimfire Pistol Irons)'))
+None
+529
+(7, ('title', 'Alan Coleman (Rimfire Rifle Open)'))
+None
+530
+(7, ('title', 'Lance sr Bratcher (Rimfire Rifle Irons)'))
+None
+531
+(7, ('title', 'GABE Berger (Rimfire Rifle Irons)'))
+None
+532
+(7, ('title', 'Maximus White (Rimfire Pistol Open)'))
+None
+533
+(7, ('title', 'Nick Brandt (PCC Irons)'))
+None
+534
+(7, ('title', 'Dave Sevigny (Carry Optics)'))
+None
+535
+(7, ('title', 'E Brandt (PCC Optic)'))
+None
+536
+(7, ('title', 'Trenton Mitsuoka (Rimfire Pistol Open)'))
+None
+537
+(7, ('title', 'John Holbrook (Carry Optics)'))
+None
+538
+(7, ('title', 'Billy McCoy (Rimfire Pistol Open)'))
+None
+539
+(7, ('title', 'Diane McCoy (Rimfire Pistol Open)'))
+None
+540
+(7, ('title', 'Steve Speer (Carry Optics)'))
+None
+541
+(7, ('title', 'Mark Tapp (Carry Optics)'))
+None
+542
+(7, ('title', 'Mary Rollins (Rimfire Rifle Open)'))
+None
+543
+(7, ('title', 'Chris Benson (Carry Optics)'))
+None
+544
+(7, ('title', 'Michael Poggie (Limited)'))
+None
+545
+(7, ('title', 'Jessika Smith (PCC Optic)'))
+None
+546
+(7, ('title', 'Lewis Hoover (Rimfire Rifle Irons)'))
+None
+547
+(7, ('title', 'Mary Rollins (Rimfire Pistol Open)'))
+None
+548

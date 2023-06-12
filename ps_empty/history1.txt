@@ -1,0 +1,500 @@
+  496  cd desktop
+  497  cd ps_empty/
+  498  pythong jim1.py
+  499  python jim1.py
+  500  open jim1.py
+  501  pythong jim1.py
+  502  python jim1.py
+  503  python jim1.py
+  504  python jim1.py
+  505  touch colors.py
+  506  open colors.py
+  507  python colors.py
+  508  python jim1.py
+  509  open jim1.py
+  510  python jim1.py
+  511  python jim1.py
+  512  python jim1.py
+  513  python jim1.py
+  514  python jim1.py
+  515  python jim1.py
+  516  python jim1.py
+  517  touch test.py
+  518  open test.py
+  519  python test.py
+  520  python test.py
+  521  python jim1.py
+  522  python jim1.py
+  523  python jim1.py
+  524  python jim1.py
+  525  python jim1.py
+  526  python jim1.py
+  527  python jim1.py
+  528  python jim1.py
+  529  python jim1.py
+  530  python jim1.py
+  531  python jim1.py
+  532  python jim1.py
+  533  python jim1.py
+  534  python jim1.py
+  535  python jim1.py
+  536  python jim1.py
+  537  python jim1.py
+  538  python jim1.py
+  539  python jim1.py
+  540  python jim1.py
+  541  python jim1.py
+  542  python jim1.py
+  543  python jim1.py
+  544  python jim1.py
+  545  python jim1.py
+  546  python jim1.py> a.a
+  547  open a.a
+  548  open a.a
+  549  python jim1.py> a.a
+  550  python jim1.py
+  551  python jim1.py
+  552  python jim1.py
+  553  python jim1.py
+  554  open jim1.py
+  555  python jim1.py
+  556  python jim1.py
+  557  python jim1.py
+  558  python jim1.py
+  559  python jim1.py
+  560  python jim1.py
+  561  python jim1.py
+  562  python jim1.py
+  563  python jim1.py
+  564  python jim1.py
+  565  python jim1.py
+  566  python jim1.py
+  567  python jim1.py
+  568  python jim1.py
+  569  python jim1.py
+  570  python jim1.py
+  571  python jim1.py
+  572  python jim1.py
+  573  python jim1.py
+  574  python jim1.py
+  575  python jim1.py
+  576  python jim1.py
+  577  python jim1.py
+  578  python jim1.py
+  579  python jim1.py
+  580  python jim1.py
+  581  python jim1.py
+  582  python jim1.py
+  583  python jim1.py
+  584  python jim1.py
+  585  python jim1.py
+  586  python jim1.py
+  587  touch test.py
+  588  open test.py
+  589  python test.py
+  590  python test.py
+  591  python test.py
+  592  python jim1.py
+  593  python jim1.py
+  594  python jim1.py
+  595  python jim1.py
+  596  python jim1.py
+  597  python jim1.py
+  598  python jim1.py
+  599  python jim1.py
+  600  python jim1.py
+  601  python jim1.py
+  602  python jim1.py
+  603  python jim1.py
+  604  python jim1.py
+  605  python jim1.py
+  606  python jim1.py
+  607  python jim1.py
+  608  python jim1.py
+  609  python jim1.py
+  610  python jim1.py
+  611  python jim1.py
+  612  open test.py
+  613  python test.py
+  614  python test.py
+  615  python test.py
+  616  python test.py
+  617  python test.py
+  618  python test.py
+  619  python test.py
+  620  python jim1.py
+  621  python test.py
+  622  python jim1.py
+  623  python jim1.py
+  624  python jim1.py
+  625  python jim1.py
+  626  python jim1.py
+  627  python jim1.py
+  628  python jim1.py
+  629  python jim1.py
+  630  python jim1.py
+  631  python jim1.py
+  632  python jim1.py> a.a
+  633  open a.a
+  634  open a.a
+  635  python jim1.py
+  636  python jim1.py
+  637  python jim1.py
+  638  python jim1.py> a.a
+  639  open a.a
+  640  python jim1.py
+  641  python jim1.py
+  642  python jim1.py> a.a
+  643  open a.a
+  644  python jim1.py
+  645  python jim1.py
+  646  python jim1.py
+  647  python jim1.py
+  648  python jim1.py
+  649  python jim1.py
+  650  python jim1.py>a.a
+  651  open a.a
+  652  python jim1.py
+  653  python jim1.py
+  654  python jim1.py
+  655  python jim1.py
+  656  python jim1.py
+  657  python jim1.py
+  658  python jim1.py
+  659  python jim1.py
+  660  python jim1.py
+  661  python jim1.py
+  662  python jim1.py
+  663  python jim1.py
+  664  python jim1.py
+  665  python jim1.py
+  666  python jim1.py
+  667  python jim1.py
+  668  python jim1.py
+  669  python jim1.py
+  670  python jim1.py
+  671  python jim1.py
+  672  python jim1.py
+  673  python jim1.py
+  674  python jim1.py
+  675  python jim1.py
+  676  python jim1.py
+  677  python jim1.py
+  678  python jim1.py
+  679  python jim1.py
+  680  python jim1.py
+  681  python jim1.py
+  682  python jim1.py
+  683  python jim1.py
+  684  python jim1.py
+  685  python jim1.py
+  686  python jim1.py
+  687  python jim1.py
+  688  python jim1.py
+  689  python jim1.py
+  690  python jim1.py
+  691  python jim1.py
+  692  python jim1.py
+  693  python jim1.py
+  694  python jim1.py
+  695  python jim1.py
+  696  python jim1.py
+  697  python jim1.py
+  698  python jim1.py
+  699  python jim1.py
+  700  python jim1.py
+  701  python jim1.py
+  702  python jim1.py
+  703  python jim1.py
+  704  python jim1.py
+  705  python jim1.py
+  706  python jim1.py
+  707  python jim1.py
+  708  python jim1.py
+  709  python jim1.py>a.a
+  710  open a.a
+  711  python jim1.py
+  712  python jim1.py
+  713  python jim1.py
+  714  python jim1.py
+  715  python jim1.py
+  716  python jim1.py
+  717  python jim1.py
+  718  python jim1.py
+  719  python jim1.py
+  720  python jim1.py
+  721  python jim1.py
+  722  python jim1.py
+  723  python jim1.py
+  724  python jim1.py
+  725  python jim1.py
+  726  python jim1.py
+  727  python jim1.py
+  728  python jim1.py
+  729  python jim1.py
+  730  python jim1.py
+  731  python jim1.py
+  732  python jim1.py
+  733  python jim1.py
+  734  python jim1.py
+  735  python jim1.py
+  736  python jim1.py
+  737  python jim1.py
+  738  python jim1.py
+  739  python jim1.py
+  740  python jim1.py
+  741  python jim1.py
+  742  python jim1.py
+  743  python jim1.py
+  744  python jim1.py>a.a
+  745  open a.a
+  746  open a.a
+  747  python jim1.py>a.a
+  748  open a.a
+  749  python jim1.py
+  750  python jim1.py
+  751  python jim1.py
+  752  python jim1.py<a.a
+  753  python jim1.py>a.a
+  754  open a.a
+  755  python jim1.py
+  756  python jim1.py
+  757  python jim1.py
+  758  python jim1.py
+  759  python jim1.py
+  760  python jim1.py
+  761  python jim1.py
+  762  python jim1.py
+  763  ping www.google.com
+  764  ping www.google.com
+  765  ping www.google.com
+  766  python jim1.py
+  767  python jim1.py
+  768  mkdir src
+  769  cd src
+  770  touch script.py
+  771  open script.py
+  772  python
+  773  cd ..
+  774  touch Dockerfile
+  775  open Dockerfile
+  776  docker build -t python-script .
+  777  docker
+  778  docker build -t python-script .
+  779  touch requirements.txt
+  780  open requirements.txt 
+  781  touch blog-scraper.py
+  782  open blog-scraper.py 
+  783  docker build -t python-script .
+  784  docker build -t python-script .
+  785  docker run python-blog-scraper
+  786  docker run python-script
+  787  open Dockerfile 
+  788  docker build -t python-script .
+  789  docker run python-script
+  790  ls
+  791  erase b.b
+  792  del b.b
+  793  rm b.b
+  794  rm a.a
+  795  ls
+  796  cd src
+  797  ls
+  798  cd ..
+  799  ls
+  800  open Dockerfile 
+  801  python blog-scraper.py 
+  802  open blog-scraper.py
+  803  open requirements.txt 
+  804  python blog-scraper.py 
+  805  docker build -t python-script .
+  806  docker run python-script
+  807  python jim1.py
+  808  docker run python-script
+  809  docker ps
+  810  docker run python-script
+  811  docker run python-script
+  812  docker ps
+  813  python jim1.py
+  814  python jim1.py
+  815  open jim1.py
+  816  open jim1.py
+  817  python jim1.py
+  818  python jim1.py
+  819  python jim1.py
+  820  curl -sL https://ibm.biz/idt-installer | bash
+  821  ibmcloud login -a cloud.ibm.com -r us-south -g default --sso
+  822  ibmcloud ks cluster config --cluster bvfr7q6d07pajkpq89lg
+  823  ibmcloud ks cluster config --cluster bvfr7q6d07pajkpq89lg
+  824  ibmcloud ks cluster config --cluster bvfr7q6d07pajkpq89lg
+  825  docker ps
+  826  docker run python-script
+  827  ibmcloud ks cluster config --cluster bvfr7q6d07pajkpq89lg
+  828  ibmcloud ks cluster config --cluster bvfr7q6d07pajkpq89lg
+  829  clear
+  830  clear
+  831  clear
+  832  ibmcloud ks cluster config --cluster bvfr7q6d07pajkpq89lg
+  833  ibmcloud ks cluster config --cluster bvfr7q6d07pajkpq89lg
+  834  ibmcloud ks cluster config --cluster bvfr7q6d07pajkpq89lg
+  835  ibmcloud cr namespace-add python
+  836  ibmcloud cr namespace-add jdpython
+  837  ibmcloud ks cluster config --cluster bvfr7q6d07pajkpq89lg
+  838  docker tag python-script:latest us.icr.io/jdpython/jdpython:1
+  839  docker push us.icr.io/jdpython/jdpython:1
+  840  ibmcloud login --sso
+  841  docker push us.icr.io/jdpython/jdpython:1
+  842  ibmcloud login --sso
+  843  docker push us.icr.io/jdpython/jdpython:1
+  844  ibmcloud cr namespace-list -v
+  845  ibmcloud login --sso
+  846  ibmcloud cr namespace-list -v
+  847  ibmcloud cr login
+  848  docker push us.icr.io/jdpython/jdpython:1
+  849  ibmcloud ks cluster config --cluster bvfr7q6d07pajkpq89lg
+  850  kubectl get nodes
+  851  kubectl config current-context
+  852  ls
+  853  touch deployment.yaml
+  854  open deployment.yaml
+  855  ls
+  856  open deployment.yaml 
+  857  kubectl apply command 
+  858  kubectl apply -f
+  859  kubectl apply -f deployment.yaml
+  860  open deployment.yaml 
+  861  export 
+  862  kubectl config current-context
+  863  export KUBECONFIG=jdkube/bvfr7q6d07pajkpq89lg
+  864  kubectl apply -f deployment.yaml
+  865  OPEN dep
+  866  OPEN deployment.yaml 
+  867  kubectl create deployment app --image=us.icr.io/jdpython/jdpython:1
+  868  kubectl create deployment app 
+  869* 
+  870  kubectl get nodes
+  871  kubectl config current-context
+  872  ibmcloud ks cluster config --cluster bvfr7q6d07pajkpq89lg
+  873  kubectl get nodes
+  874  kubectl config current-context
+  875  kubectl get nodes
+  876  kubectl create deployment app 
+  877  kubectl apply
+  878  kubectl apply -f deployment.yaml
+  879  open deployment.yaml
+  880  open deployment.yaml
+  881  kubectl apply -f deployment.yaml
+  882  kubectl describe deployment jdpython
+  883  kubectl get pods -l app=jdpython
+  884  kubectl get pods -l app=jdpython
+  885  kubectl get pods -l app=jdpython
+  886  kubectl get pods -l app=jdpython
+  887  kubectl get pods -l app=jdpython
+  888  kubectl get pods -l app=jdpython
+  889  kubectl get pods -l app=jdpython
+  890  ls
+  891  open dockerfile
+  892  docker blog-scraper.py 
+  893  python blog-scraper.py 
+  894  docker run blog-scraper.py 
+  895  docker run blog-scraper
+  896  docker run 
+  897  docker ls
+  898  docker list images
+  899  docker ls images
+  900  docker ls
+  901  docker
+  902  docker images
+  903  docker run python-script
+  904  kubectl get pods -l app=jdpython
+  905  kubectl get pods 
+  906  kubectl get pods 
+  907  kubectl describe pods
+  908  open dockerfile
+  909  ls *.py
+  910  open blog-scraper.py
+  911  python blog-scraper.py
+  912  history
+  913  docker build -t python-script .
+  914    806  docker run python-script
+  915  docker build -t python-script .
+  916    806  docker run python-script
+  917  docker run python-script
+  918  history
+  919  kubectl get nodes
+  920  kubectl get pods
+  921  python jim1.py
+  922  history > history.txt
+  923  python jim1.py
+  924  python jim1.py
+  925  python jim1.py>a.a
+  926  open a.a
+  927  open a.a
+  928  open jim1.py
+  929  python jim1.py>a.a
+  930  open a.a
+  931  python jim1.py
+  932  python jim1.py>a.a
+  933  open a.a
+  934  python jim1.py>a.a
+  935  open a.a
+  936  python jim1.py>a.a
+  937  open a.a
+  938  python jim1.py
+  939  python jim1.py>a.a
+  940  open a.a
+  941  open a.a
+  942  python jim1.py
+  943  python jim1.py
+  944  python jim1.py
+  945  python jim1.py
+  946  python jim1.py
+  947  python jim1.py
+  948  python jim1.py
+  949  python jim1.py
+  950  python jim1.py
+  951  python jim1.py
+  952  python jim1.py>a.a
+  953  open a.a
+  954  python jim1.py>a.a
+  955  open a.a
+  956  python jim1.py>a.a
+  957  open a.a
+  958  python jim1.py>a.a
+  959  open a.a
+  960  python jim1.py
+  961  python jim1.py
+  962  python jim1.py>a.a
+  963  open a.a
+  964  python jim1.py
+  965  python jim1.py
+  966  python jim1.py
+  967  python jim1.py
+  968  python jim1.py
+  969  python jim1.py
+  970  python jim1.py
+  971  python jim1.py
+  972  python jim1.py
+  973  python jim1.py
+  974  python jim1.py
+  975  python jim1.py
+  976  python jim1.py
+  977  python jim1.py
+  978  python jim1.py>a.a
+  979  open a.a
+  980  python jim1.py>a.a
+  981  open a.a
+  982  python jim1.py>a.a
+  983  open a.a
+  984  python jim1.py>a.a
+  985  open a.a
+  986  open a.a
+  987  python jim1.py
+  988  python jim1.py>a.a
+  989  open a.a
+  990  python jim1.py
+  991  python jim1.py
+  992  python jim1.py>a.a
+  993  open a.a
+  994  python jim1.py
+  995  history > history1.txt

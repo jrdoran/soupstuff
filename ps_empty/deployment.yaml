@@ -1,0 +1,20 @@
+apiVersion: apps/v1 # for versions before 1.9.0 use apps/v1beta2
+kind: Deployment
+metadata:
+  name: jdpython
+spec:
+  selector:
+    matchLabels:
+      app: jdpython
+  replicas: 1 # tells deployment to run 2 pods matching the template
+  template:
+    metadata:
+      labels:
+        app: jdpython
+    spec:
+      containers:
+      - name: jdpython
+        image: "us.icr.io/jdpython/jdpython:1"
+        imagePullPolicy: Always
+        ports:
+        - containerPort: 80

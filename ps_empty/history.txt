@@ -1,0 +1,500 @@
+  228  git push -u origin main
+  229  git push -u origin main
+  230  quit
+  231  exit
+  232  cd desktop
+  233  cd ps_empty
+  234  ls
+  235  ls -d */
+  236  ls -l
+  237  python find.py 22
+  238  open find.py
+  239  python find.py 22
+  240  python find.py 22
+  241  python find.py 22
+  242  python find.py 22
+  243  ls
+  244  open jim1.py
+  245  open find.py
+  246  python jim1.py
+  247  python jim1.py
+  248  python jim1.py
+  249  python jim1.py
+  250  python jim1.py > a.a
+  251  open a.a
+  252  python jim1.py
+  253  python jim1.py>a.a
+  254  open a.a
+  255  python jim1.py
+  256  python jim1.py
+  257  python jim1.py
+  258  python jim1.py
+  259  python jim1.py
+  260  python jim1.py> a.a
+  261  python jim1.py | less -R
+  262  python jim1.py | less 
+  263  q
+  264  python jim1.py 
+  265  clear
+  266  python jim1.py > a.a
+  267  python jim1.py 
+  268  python jim1.py 
+  269  python jim1.py 
+  270  python jim1.py 
+  271  python jim1.py 
+  272  python jim1.py 
+  273  python jim1.py 
+  274  python jim1.py 
+  275  python jim1.py 
+  276  python jim1.py 
+  277  python jim1.py 
+  278  python jim1.py 
+  279  python jim1.py 
+  280  python jim1.py 
+  281  python jim1.py 
+  282  python jim1.py 
+  283  python jim1.py 
+  284  python jim1.py 
+  285  python jim1.py 
+  286  python jim1.py 
+  287  python jim1.py 
+  288  python jim1.py 
+  289  python jim1.py 
+  290  python jim1.py 
+  291  python jim1.py 
+  292  python jim1.py 
+  293  python jim1.py 
+  294  python jim1.py 
+  295  python jim1.py 
+  296  python jim1.py 
+  297  python jim1.py 
+  298  python jim1.py 
+  299  python jim1.py 
+  300  python jim1.py 
+  301  python jim1.py 
+  302  python jim1.py 
+  303  touch parse.py
+  304  open prase.py
+  305  ls
+  306  open parse.py
+  307  python parse.py
+  308  python parse.py
+  309  python parse.py
+  310  python parse.py
+  311  python parse.py
+  312  python parse.py
+  313  python parse.py
+  314  python parse.py
+  315  python parse.py
+  316  python parse.py
+  317  python parse.py
+  318  python parse.py
+  319  python parse.py
+  320  python jim1.py
+  321  python jim1.py
+  322  python jim1.py
+  323  python jim1.py
+  324  python jim1.py
+  325  python jim1.py
+  326  open parse.py
+  327  python parse
+  328  python parse.py
+  329  python parse.py
+  330  python parse.py
+  331  python parse.py
+  332  python parse.py
+  333  python parse.py
+  334  clear
+  335  clear
+  336  python parse.py
+  337  python parse.py
+  338  python parse.py
+  339  python parse.py
+  340  python parse.py
+  341  python parse.py
+  342  python parse.py
+  343  python parse.py
+  344  python parse.py
+  345  python parse.py
+  346  python parse.py
+  347  python parse.py
+  348  python parse.py
+  349  python parse.py
+  350  python parse.py
+  351  python parse.py
+  352  python parse.py
+  353  python parse.py
+  354  python parse.py
+  355  python parse.py
+  356  python parse.py
+  357  clear
+  358  python parse.py
+  359  python parse.py
+  360  python parse.py
+  361  python parse.py
+  362  python parse.py
+  363  python parse.py
+  364  python parse.py
+  365  python parse.py
+  366  python parse.py
+  367  python parse.py
+  368  python parse.py
+  369  python parse.py
+  370  python parse.py
+  371  python parse.py
+  372  python parse.py
+  373  python parse.py
+  374  python parse.py
+  375  python parse.py
+  376  python parse.py
+  377  python parse.py
+  378  python parse.py
+  379  python parse.py
+  380  clear
+  381  clear
+  382  python parse.py
+  383  python parse.py
+  384  python parse.py
+  385  python parse.py
+  386  python parse.py
+  387  clear
+  388  python parse.py
+  389  python parse.py
+  390  python parse.py
+  391  python parse.py
+  392  python parse.py
+  393  python parse.py
+  394  python parse.py
+  395  python parse.py
+  396  python parse.py
+  397  python parse.py
+  398  python parse.py
+  399  python parse.py
+  400  python parse.py
+  401  python parse.py
+  402  python parse.py
+  403  python parse.py
+  404  python parse.py
+  405  python parse.py
+  406  python parse.py
+  407  python parse.py
+  408  python parse.py
+  409  python parse.py
+  410  python parse.py
+  411  python parse.py
+  412  python parse.py
+  413  python parse.py
+  414  python parse.py
+  415  python parse.py
+  416  python parse.py
+  417  python parse.py
+  418  python parse.py
+  419  python parse.py
+  420  python parse.py
+  421  python parse.py
+  422  python parse.py
+  423  python parse.py
+  424  python parse.py
+  425  python parse.py
+  426  python jim1
+  427  python jim1.py
+  428  python jim1.py
+  429  touch b.b
+  430  open b.b
+  431  python parse.py
+  432  python parse.py
+  433  python parse.py
+  434  python parse.py
+  435  python parse.py
+  436  python parse.py
+  437  python parse.py
+  438  python parse.py
+  439  python parse.py
+  440  python parse.py
+  441  python parse.py
+  442  python parse.py
+  443  python parse.py
+  444  python parse.py
+  445  python parse.py
+  446  python parse.py
+  447  python parse.py
+  448  python parse.py
+  449  python parse.py
+  450  python parse.py
+  451  python parse.py
+  452  python jim1.py
+  453  python jim1.py
+  454  python jim1.py
+  455  python jim1.py
+  456  python jim1.py
+  457  python jim1.py
+  458  python jim1.py
+  459  python jim1.py
+  460  python jim1.py
+  461  python jim1.py
+  462  python jim1.py
+  463  python jim1.py
+  464  python jim1.py
+  465  python jim1.py
+  466  python jim1.py
+  467  python jim1.py
+  468  python jim1.py > a.a
+  469  open a.a
+  470  python jim1.py > a.a
+  471  open a.a
+  472  open a.a
+  473  python jim1.py > a.a
+  474  open a.a
+  475  python parse.py
+  476  python jim1.py > a.a
+  477  open a.a
+  478  python jim1.py > a.a
+  479  open a.a
+  480  open a.a
+  481  python jim1.py > a.a
+  482  open a.a
+  483  ls
+  484  open find.py
+  485  python jim1.py 
+  486  python jim1.py 
+  487  python jim1.py 
+  488  python jim1.py 
+  489  python jim1.py 
+  490  python jim1.py 
+  491  python jim1.py 
+  492  python jim1.py 
+  493  python jim1.py 
+  494  python jim1.py 
+  495  python jim1.py 
+  496  cd desktop
+  497  ls
+  498  cd ps_empty
+  499  ls
+  500  ibmcloud login -a cloud.ibm.com -r us-south -g default --sso
+  501  ibmcloud login -a cloud.ibm.com -r us-south -g default --sso
+  502  docker tag python-script:latest us.icr.io/jdpython/jdpython:1
+  503  docker push us.icr.io/jdpython/jdpython:1
+  504  ibmcloud cr namespace-list -v
+  505  kubectl get nodes
+  506  ibmcloud ks cluster config --cluster bvfr7q6d07pajkpq89lg
+  507  kubectl get nodes
+  508  ibmcloud cr login
+  509   docker push us.icr.io/jdpython/jdpython:1
+  510  kubectl get nodes
+  511  ibmcloud ks cluster config --cluster bvfr7q6d07pajkpq89lg
+  512  ibmcloud login --sso
+  513  kubectl get nodes
+  514  kubectl config current-context
+  515  kubectl apply
+  516  kubectl get pods
+  517  kubectl apply -f deployment.yaml
+  518  kubectl create deployment app
+  519  kubectl get pods
+  520  kubectl create deployment app
+  521  kube create deployment app
+  522  kubectl create deployment app
+  523  kubectl apply
+  524  kubectl apply -f deployment.yaml
+  525  kubectl get nods
+  526  kubectl get pods
+  527  kubectl destroy pod jdpython-89
+  528  kubectl delete pods jdpython-89
+  529  kubectl get pods
+  530  kubectl delete pods jdpython-896b8c6d9-5t2mn
+  531  kubectl get pods
+  532  kubectl get pods
+  533  kubectl get pods
+  534  kubectl get pods
+  535  kubectl get pods
+  536  kubectl delete pods jdpython-896b8c6d9-5t2mn
+  537  kubectl get all
+  538  kubectl get all
+  539  kubectl delete service deployment.apps/jdpython
+  540  kubectl delete service jdpython
+  541* kubectl delete  deployment.ap
+  542  kubectl get all
+  543  kubectl get pods
+  544  kubectl apply -f
+  545  kubectl apply -f deployment.yaml
+  546  kubectl get pods
+  547  kubectl get pods
+  548  kubectl get pods
+  549  kubectl get pods
+  550  kubectl get pods
+  551  kubectl get pods
+  552  kubectl get pods
+  553  kubectl get pods
+  554  kubectl get pods
+  555  kubectl get pods
+  556  kubectl get pods
+  557  kubectl get pods
+  558  kubectl get pods
+  559  kubectl get pods
+  560  kubectl get pods
+  561  kubectl get pods
+  562  kubectl get pods
+  563  kubectl get pods
+  564  kubectl get pods
+  565  kubectl get pods
+  566  kubectl get pods
+  567  kubectl get pods
+  568  kubectl get pods
+  569  kubectl get pods
+  570  kubectl get pod
+  571  kubectl get pod jdpython-896b8c6d9-rkkw6 
+  572  kubectl exec --stdin --tty jdpython-896b8c6d9-rkkw6  -- /bin/bash
+  573  kubectl get pods
+  574  kubectl exec --stdin --tty jdpython-896b8c6d9-rkkw6  --/bin/bash
+  575  kubectl exec --stdin --tty jdpython-896b8c6d9-rkkw6  -- /bin/bash
+  576  kubectl logs jdpython-896b8c6d9-rkkw6 
+  577  kubectl logs jdpython-896b8c6d9-rkkw6 
+  578  kubectl logs jdpython-896b8c6d9-rkkw6 
+  579  kubectl get pods
+  580  kubectl delete jdpython-896b8c6d9-rkkw6 
+  581  kubectl delete jdpython-896b8c6d9-rkkw6  --all
+  582  kubectl get pods
+  583  kubectl delete jdpython-896b8c6d9-rkkw6  --all
+  584  history
+  585  kubectl delete service jdpython
+  586  kubectl get pods
+  587  kubectl delete service jdpython
+  588  kubectl get pods
+  589  kubectl get all
+  590  kubectl delete deployment jdpython
+  591  kubectl get pods
+  592  ls
+  593  open blog-scraper.py 
+  594  python blog-scraper.py 
+  595  history
+  596  docker push us.icr.io/jdpython/jdpython:1
+  597  open dockerfile
+  598  docker push us.icr.io/jdpython/jdpython:1
+  599  open dockerfile
+  600  docker run jdpython
+  601  history
+  602  open dockerfile
+  603  docker run blog-scraper.py 
+  604  docker run blog-scraper
+  605  docker run python-script
+  606  history
+  607  history
+  608  docker tag python-script:latest us.icr.io/jdpython/jdpython:1
+  609  docker push us.icr.io/jdpython/jdpython:1
+  610  open dockerfile
+  611  docker tag python-script:latest us.icr.io/jdpython/jdpython:1
+  612  docker push us.icr.io/jdpython/jdpython:1
+  613  open dockerfile
+  614  docker tag python-script:latest us.icr.io/jdpython/jdpython:1
+  615  docker push us.icr.io/jdpython/jdpython:1
+  616  docker run python-script
+  617  docker tag python-script:latest us.icr.io/jdpython/jdpython:1
+  618  docker push us.icr.io/jdpython/jdpython:1
+  619  docker build
+  620  docker build python-script
+  621  docker build jdpython
+  622  docker build -t python-script .
+  623  docker tag python-script:latest us.icr.io/jdpython/jdpython:1
+  624  docker push us.icr.io/jdpython/jdpython:1
+  625  kubectl apply -f deployment.yaml
+  626  kubectl get pods
+  627  kubectl logs jdpython-896b8c6d9-tl78s 
+  628  kubectl logs jdpython-896b8c6d9-tl78s 
+  629  kubectl logs jdpython-896b8c6d9-tl78s 
+  630* 
+  631  kubectl get pods
+  632  kubectl logs jdpython-896b8c6d9-tl78s 
+  633  kubectl logs jdpython-896b8c6d9-tl78s 
+  634  kubectl get pods
+  635  kubectl logs jdpython-896b8c6d9-tl78s 
+  636  kubectl delete deployment jdpython
+  637  kubectl get pods
+  638  open deployment.yaml
+  639  kubectl get nodes
+  640  kubectl create deployment 
+  641  kubectl create deployment app
+  642  docker run jdpython
+  643  ls
+  644  docker run blog-scraper.py
+  645  docker run blog-scraper
+  646  docker list
+  647  docker ps
+  648  docker images
+  649  docker run python-script
+  650  docker run us.icr.io/jdpython/jdpython 
+  651  docker run us.icr.io/jdpython/jdpython:latest
+  652  docker run https://us.icr.io/jdpython/jdpython:latest
+  653  docker run us.icr.io/jdpython/jdpython:latest
+  654  docker pull us.icr.io/jdpython/jdpython 
+  655  docker pull us.icr.io/jdpython/jdpython:latest
+  656  docker pull us.icr.io/jdpython/blog-scraper
+  657  docker list
+  658  docker images
+  659  docker pull us.icr.io/jdpython/jdpython
+  660  docker pull us.icr.io/jdpython/python-script
+  661  docker pull us.icr.io/jdpython/python-script:latest
+  662  docker run us.icr.io/jdpython/jdpython 
+  663  docker run us.icr.io/jdpython/jdpython:1
+  664  kubectl get pods
+  665  docker tag python-script:latest us.icr.io/jdpython/jdpython:1
+  666  docker push us.icr.io/jdpython/jdpython:1
+  667  open deployment.yaml
+  668  docker tag python-script:latest us.icr.io/jdpython/jdpython:1
+  669  docker push us.icr.io/jdpython/jdpython:1
+  670  kubectl create deployment app
+  671  kubectl create deployment 
+  672  kubectl apply -f 
+  673  kubectl apply -f deployment.yaml
+  674  kubectl get logs
+  675  kubectl logs
+  676  kubectl logs jdpython-896b8c6d9-tl78s 
+  677  kubectl get pods
+  678  kubectl logs jdpython-79997d9997-n2572
+  679  ls
+  680  open blog-scraper.py
+  681  python blog-scraper.py
+  682  python blog-scraper.py>a.a
+  683  open a.a
+  684  docker build -t python-script .
+  685  docker tag python-script:latest us.icr.io/jdpython/jdpython:1
+  686  docker push us.icr.io/jdpython/jdpython:1
+  687  kubectl get pods
+  688  kubectl delete deployment jdpython
+  689  kubectl apply -f deployment.yaml
+  690  kubectl get pods
+  691  kubectl logs jdpython-79997d9997-8pnxg 
+  692  open dockerfile
+  693  open dockerfile
+  694  open deployment.yaml
+  695  kubectl delete deployment jdpython
+  696  kubectl apply -f deployment.yaml
+  697  kubectl get pods
+  698  kubectl get pods
+  699  kubectl logs jdpython-64c98f5cf9-smhb7 
+  700  open blog-scraper.py 
+  701  pythong blog-scraper.py > a.a
+  702  python blog-scraper.py > a.a
+  703  python blog-scraper.py 
+  704  python blog-scraper.py >b.b
+  705  ls
+  706  open b.b
+  707  rm b.b
+  708  rm a.a
+  709  python blog-scraper.py >b.b
+  710  python blog-scraper.py 
+  711  open b.b
+  712  python blog-scraper.py >c.c
+  713  kubectl get pods
+  714  kubectl delete deployment jdpython
+  715  docker build -t python-script .
+  716  docker tag python-script:latest us.icr.io/jdpython/jdpython:1
+  717   docker push us.icr.io/jdpython/jdpython:1
+  718  kubectl deployment -f deployment.yaml
+  719  kubectl apply -f deployment.yaml
+  720  kubectl get pods
+  721  kubectl logs jdpython-64c98f5cf9-4r89b 
+  722  kubectl get pods
+  723  kubectl get pods
+  724  kubectl get pods
+  725  kubectl get pods
+  726  kubectl get pods
+  727  history > history.txt
